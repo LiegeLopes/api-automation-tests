@@ -1,0 +1,13 @@
+USUARIOS:
+  user1:
+    email: 'eve.holt@reqres.in'
+    senha: 'cityslicka'
+  user_invalid:
+    email: 'giovana@reqres.in'
+    senha: 'cityslicka'
+  user_cadastro: 
+    email: 'eve.holt@reqres.in'
+    senha: 'pistol'
+  user_ja_cadastrado:
+    name: 'morpheus'
+    job: 'zion resident'

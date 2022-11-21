@@ -1,0 +1,13 @@
+{
+    "description": "contrato do retorno do login",
+    "type": "object",
+    "properties": {
+      "token": {
+        "type": "string"
+      }
+    },
+    "additionalProperties": false,
+    "required": [
+      "token"
+    ]
+  }
